@@ -4,12 +4,12 @@ let conversation = {
     {
       choix: "C'est ça !",
       complete: "Oui, c'est bien moi ! Je m'apelle Max.",
-      question: "Enchantée. Moi c'est Mary",
+      question: "Enchantée. Moi c'est Mary.",
       reponses: [
         {
-          choix: 'rien',
-          complete: 'Rien lol',
-          question: 'pk rien',
+          choix: 'Ça va?',
+          complete: 'Ça va sinon? Tu te plais ici?',
+          question: 'Oui, ça va je me sens un peu seule mais ça ira avec le temps!',
           reponses: [
             {
               choix: 'ba rien',

@@ -16,6 +16,13 @@ if (navigator.appVersion.indexOf("Linux")!=-1) OSName="Linux";
 
 mockUpOperator.innerHTML += OSName;
 
+// function myFunction() {
+//     var d = new Date();
+//     var n = d.getHours();
+//     var m = d.getMinutes();
+//     document.querySelector(".mockUpHour").innerHTML = n + ':' + m;
+// }
+
 var introSection = document.querySelector('.introSection');
 var startButton = document.querySelector('.startButton');
 var mobileContainer = document.querySelector('.mobileContainer');
